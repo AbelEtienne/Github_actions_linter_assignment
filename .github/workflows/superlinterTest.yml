@@ -2,7 +2,7 @@ name: Super Linter
 
 on:
   pull_request:
-    branches: [ LintTest ]
+    branches: [ Main ]
 
 jobs:
   super-lint:
